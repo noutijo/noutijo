@@ -2,6 +2,8 @@
 
 <strong> I am a Front-End Developer & active self-learner. </strong>Have a look around my Master Index to see what I've worked on previously. You can connect with me via [Linkedin](https://www.linkedin.com/in/oreolnoumodong/) or follow me on [Twitter](https://twitter.com/JuniorOreol). </strong>
 
+![](/imgs/me.png)
+
 <!--
 **noutijo/noutijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
