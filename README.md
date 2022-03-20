@@ -3,7 +3,7 @@
 <strong> I am a MERN Stack|@redux/toolkit Developer, Javascript Developer, Ui/Ux Designer & active self-learner. </strong>Have a look around my Master Index to see what I've worked on previously. You can connect with me via [Linkedin](https://www.linkedin.com/in/oreolnoumodong/) or follow me on [Twitter](https://twitter.com/JuniorOreol). </strong>
 
 <a href="https://github.com/noutijo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boutijo&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noutijo&theme=light&hide_langs_below=1" />
 </a>
 
 <!--
