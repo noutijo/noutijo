@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-<strong> I am a MERN Stack|@redux/toolkit Developer, Javascript Developer, Ui/Ux Designer & active self-learner. </strong>Have a look around my Master Index to see what I've worked on previously. You can connect with me via [Linkedin](https://www.linkedin.com/in/oreolnoumodong/) or follow me on [Twitter](https://twitter.com/JuniorOreol). </strong>
+<strong> I am a MERN Stack | @redux/toolkit Developer, Javascript Developer, UX/UI Designer & active self-learner. </strong>Have a look around my Master Index to see some of the projects I've worked on previously. 
+
+Let's connect: 
+[Linkedin](https://www.linkedin.com/in/oreolnoumodong/) 
+[Twitter](https://twitter.com/JuniorOreol)
+</strong>
 
 <!--
 **noutijo/noutijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
