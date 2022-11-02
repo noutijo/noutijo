@@ -3,7 +3,8 @@
 <strong> I am a MERN Stack | @redux/toolkit Developer, Javascript Developer, UX/UI Designer & active self-learner. </strong>Have a look around my Master Index to see some of the projects I've worked on previously. 
 
 Let's connect: 
-[My website](https://www.oreolnoumodong.com) |
+[My Website](https://www.oreolnoumodong.com) |
+[LinkedIn](https://www.linkedin.com/in/oreolnoumodong) |
 [Twitter](https://twitter.com/JuniorOreol) |
 [YouTube](https://youtube.com/nooutidev)
 </strong>
