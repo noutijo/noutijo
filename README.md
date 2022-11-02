@@ -1,6 +1,6 @@
 ### Hi there, 👋
 
-<strong> I am a MERN Stack | @redux/toolkit Developer, Javascript Developer, UX/UI Designer & active self-learner. </strong>Have a look around my Master Index to see some of the projects I've worked on previously. 
+<strong> I am a MERN Stack -NextJs Developer | @redux/toolkit | Javascript/TypeScript Developer | UX/UI Designer & active self-learner. </strong>Have a look around my Master Index to see some of the projects I've worked on previously. 
 
 Let's connect: 
 [My Website](https://www.oreolnoumodong.com) |
