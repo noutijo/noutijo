@@ -6,7 +6,6 @@ Let's connect:
 [My Website](https://www.oreolnoumodong.com) |
 [LinkedIn](https://www.linkedin.com/in/oreolnoumodong) |
 [Twitter](https://twitter.com/JuniorOreol) |
-[YouTube](https://youtube.com/nooutidev)
 </strong>
 
 <!--
