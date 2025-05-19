@@ -5,7 +5,7 @@
 Let's connect: 
 [My Website](https://www.oreolnoumodong.com) |
 [LinkedIn](https://www.linkedin.com/in/oreolnoumodong) |
-[Twitter](https://twitter.com/JuniorOreol) |
+[Twitter](https://twitter.com/JuniorOreol)
 </strong>
 
 <!--
